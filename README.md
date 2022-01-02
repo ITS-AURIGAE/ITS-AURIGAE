@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/website?label=aurigaetech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aurigaetech.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AurigaeTech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FITS-AURIGAETECH&screen_name=AurigaeTech)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## we are group of engineers focused on leveraging technology in education!!
 
 - 🔭 we just launched our first course: [Become A Robotics pioneer!][course]!
 - 🌱 it helps the students to learn and innovate in the field of robotic,IoT & AI
 - 👯 we are looking to collaborate with technically skilled creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ seeking chances to implement our ideas through tchnology for a cause
+- ⚡ seeking chances to implement our ideas through technology for a cause
 
-### Connect with me:
+### Connect with us:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
